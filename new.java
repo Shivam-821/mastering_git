@@ -8,7 +8,7 @@ class Test {
         System.out.println(t.value);  // 10
 
         // find the value or any error occur 
-        int y;
+        // int y;
         int newvalue = 20;
         try {
             // compile time error occur
