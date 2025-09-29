@@ -11,3 +11,4 @@ Hello, Git!
 -- Hello student it's nice to see that you are very excieted to learn new things.
 
 -- very nice to hear that
+-- I just love the exploring the new things
