@@ -12,7 +12,7 @@ class Test {
         int newvalue = 20;
         try {
             // compile time error occur
-            // System.out.println(y);
+            // System.out.println(y); 
             System.out.println(newvalue); // 20
         } catch (Exception e) {
             // TODO: handle exception
