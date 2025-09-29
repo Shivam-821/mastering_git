@@ -9,8 +9,12 @@ Hello, Git!
 -- Hello sir, this side learning branch
 
 -- Hello student it's nice to see that you are very excieted to learn new things.
+
 -- I just love the exploring the new things
 
 -- very nice to hear that
--- I just love the exploring the new things
+
 -- hello
+
+-- good morining, i am giving first assignment
+
